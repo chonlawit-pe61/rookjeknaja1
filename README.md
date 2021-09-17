@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on ...
+🔭 I’m studying at Rajamangala University of Technology lanna My major is Bachelor of Science in Technical Education Program in Electrical Engineering
 <!--
 **rookjeknaja1/rookjeknaja1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
