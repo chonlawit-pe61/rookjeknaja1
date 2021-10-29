@@ -1,4 +1,6 @@
-![GitHub Logo](/img/wallpaper 1920x1080.gif)
+
+<img width="100%" src="https://github.com/rookjeknaja1/rookjeknaja1/blob/main/img/wl.gif" />
+
 ### Hi there 👋
 💬 
 🔭 I’m studying at Rajamangala University of Technology lanna My major is Bachelor of Science in Technical Education Program in Electrical Engineering
